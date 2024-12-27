@@ -10,6 +10,7 @@ this.rollno = rollno;
 }
 public void setName(String name)
 {
+	
 this.name = name;
 }
 public int getRollno()
